@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\bin\Debug\Reflec2.exe.config
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\bin\Debug\Reflec2.exe
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\bin\Debug\Reflec2.pdb
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.Form1.resources
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.exe
+C:\Users\MidasM2020\source\repos\Reflec2\Reflec2\obj\Debug\Reflec2.pdb
