@@ -1,0 +1,31 @@
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\On_Line_POO_2A_TT\Clases\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\Dario Cardacci\source\repos\2022\1C\POO_2A_TN_LGTI\Unidad_6_Ejemplo 38\EjemploServidor\obj\Debug\EjemploServidor.pdb
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\bin\Debug\EjemploServidor.exe.config
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\bin\Debug\EjemploServidor.exe
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\bin\Debug\EjemploServidor.pdb
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.ServidorForm.resources
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.Properties.Resources.resources
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.csproj.GenerateResource.cache
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.exe
+C:\Users\MidasM2020\Desktop\UCEMA\Algoritmos y Estructura de Datos\Unidad 6-20221117\Código desarrollado en clase al 2022_11_10\CEMA\EjemploSocket\EjemploServidor\obj\Debug\EjemploServidor.pdb
