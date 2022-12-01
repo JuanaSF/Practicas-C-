@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\bin\Debug\PracticaSubprocesosThreads.exe.config
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\bin\Debug\PracticaSubprocesosThreads.exe
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\bin\Debug\PracticaSubprocesosThreads.pdb
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.Form1.resources
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.exe
+C:\Users\MidasM2020\source\repos\Subprocesos\PracticaSubprocesosThreads\obj\Debug\PracticaSubprocesosThreads.pdb
