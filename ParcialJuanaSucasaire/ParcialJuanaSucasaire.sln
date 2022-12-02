@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialJuanaSucasaire", "ParcialJuanaSucasaire\ParcialJuanaSucasaire.csproj", "{CDD9928B-4BAE-486C-B221-6AFB8D5456E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejer1", "Ejer1\Ejer1.csproj", "{ECE2C2A5-1030-4013-BAB2-A75012A41609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD9928B-4BAE-486C-B221-6AFB8D5456E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD9928B-4BAE-486C-B221-6AFB8D5456E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD9928B-4BAE-486C-B221-6AFB8D5456E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD9928B-4BAE-486C-B221-6AFB8D5456E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE2C2A5-1030-4013-BAB2-A75012A41609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE2C2A5-1030-4013-BAB2-A75012A41609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE2C2A5-1030-4013-BAB2-A75012A41609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE2C2A5-1030-4013-BAB2-A75012A41609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BDC8AA3-EBBD-4B17-9B69-9551D6694935}
+	EndGlobalSection
+EndGlobal

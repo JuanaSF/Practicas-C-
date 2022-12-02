@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\bin\Debug\Ejer1.exe.config
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\bin\Debug\Ejer1.exe
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\bin\Debug\Ejer1.pdb
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.Properties.Resources.resources
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.exe
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\Ejer1\obj\Debug\Ejer1.pdb

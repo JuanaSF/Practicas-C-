@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\bin\Debug\ParcialJuanaSucasaire.exe.config
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\bin\Debug\ParcialJuanaSucasaire.exe
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\bin\Debug\ParcialJuanaSucasaire.pdb
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.Form1.resources
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.Properties.Resources.resources
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.exe
+C:\Users\usuario\source\repos\ParcialJuanaSucasaire\ParcialJuanaSucasaire\obj\Debug\ParcialJuanaSucasaire.pdb
