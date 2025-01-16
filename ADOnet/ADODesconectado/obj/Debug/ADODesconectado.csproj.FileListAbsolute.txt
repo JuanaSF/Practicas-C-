@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\bin\Debug\ADODesconectado.exe.config
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\bin\Debug\ADODesconectado.exe
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\bin\Debug\ADODesconectado.pdb
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.Form1.resources
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.exe
+C:\Users\MidasM2020\source\repos\ADOnet\ADODesconectado\obj\Debug\ADODesconectado.pdb

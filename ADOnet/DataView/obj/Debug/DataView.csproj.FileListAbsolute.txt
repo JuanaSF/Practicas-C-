@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\bin\Debug\DataView.exe.config
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\bin\Debug\DataView.exe
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\bin\Debug\DataView.pdb
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.Form1.resources
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.exe
+C:\Users\MidasM2020\source\repos\ADOnet\DataView\obj\Debug\DataView.pdb

@@ -1,0 +1,15 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\TorreHanoi.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\TorreHanoi.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\TorreHanoi.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\Pila.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\Pila.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\bin\Debug\Pila.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.csproj.CopyComplete
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\TorreHanoi\obj\Debug\TorreHanoi.pdb

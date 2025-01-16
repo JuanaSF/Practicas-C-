@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.Form1.resources
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\MidasM2020\source\repos\TP2\Ejercicio7\obj\Debug\Ejercicio7.pdb

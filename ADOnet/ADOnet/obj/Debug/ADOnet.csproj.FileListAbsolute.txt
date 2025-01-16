@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\bin\Debug\ADOnet.exe.config
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\bin\Debug\ADOnet.exe
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\bin\Debug\ADOnet.pdb
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.Form1.resources
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.exe
+C:\Users\MidasM2020\source\repos\ADOnet\ADOnet\obj\Debug\ADOnet.pdb

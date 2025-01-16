@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\bin\Debug\Cola.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\bin\Debug\Cola.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\bin\Debug\Cola.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Cola\obj\Debug\Cola.pdb

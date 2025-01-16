@@ -1,0 +1,14 @@
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio10.exe.config
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio10.exe
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio10.pdb
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio9.exe
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio9.pdb
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\bin\Debug\Ejercicio9.exe.config
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.csproj.CopyComplete
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.exe
+C:\Users\MidasM2020\source\repos\TP3\Ejercicio10\obj\Debug\Ejercicio10.pdb

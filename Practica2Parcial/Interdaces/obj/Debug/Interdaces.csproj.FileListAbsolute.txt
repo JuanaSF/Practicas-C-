@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\bin\Debug\Interdaces.exe.config
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\bin\Debug\Interdaces.exe
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\bin\Debug\Interdaces.pdb
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.Form1.resources
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.exe
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Interdaces\obj\Debug\Interdaces.pdb

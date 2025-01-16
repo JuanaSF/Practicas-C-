@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\bin\Debug\Lista.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\bin\Debug\Lista.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\bin\Debug\Lista.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Lista\obj\Debug\Lista.pdb

@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\bin\Debug\PracticaArbol.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\bin\Debug\PracticaArbol.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\bin\Debug\PracticaArbol.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\PracticaArbol\obj\Debug\PracticaArbol.pdb

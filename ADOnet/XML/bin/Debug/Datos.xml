@@ -1,0 +1,54 @@
+<?xml version="1.0" standalone="yes"?>
+<Datos>
+  <xs:schema id="Datos" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Datos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Personas">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Legajo" type="xs:int" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Apellido" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Personas" />
+        <xs:field xpath="Legajo" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Personas>
+    <Legajo>3</Legajo>
+    <Nombre>Sebastian</Nombre>
+    <Apellido>Yatra</Apellido>
+  </Personas>
+  <Personas>
+    <Legajo>4</Legajo>
+    <Nombre>Carlos</Nombre>
+    <Apellido>Vives</Apellido>
+  </Personas>
+  <Personas>
+    <Legajo>1</Legajo>
+    <Nombre>Becky</Nombre>
+    <Apellido>G</Apellido>
+  </Personas>
+  <Personas>
+    <Legajo>5</Legajo>
+    <Nombre>Luis</Nombre>
+    <Apellido>Fonsi</Apellido>
+  </Personas>
+  <Personas>
+    <Legajo>6</Legajo>
+    <Nombre>Manuel</Nombre>
+    <Apellido>Turizo</Apellido>
+  </Personas>
+  <Personas>
+    <Legajo>7</Legajo>
+    <Nombre>Carla</Nombre>
+    <Apellido>Gimenez</Apellido>
+  </Personas>
+</Datos>

@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\bin\Debug\Practica2Parcial.exe.config
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\bin\Debug\Practica2Parcial.exe
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\bin\Debug\Practica2Parcial.pdb
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.Form1.resources
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.exe
+C:\Users\MidasM2020\source\repos\Practica2Parcial\Practica2Parcial\obj\Debug\Practica2Parcial.pdb

@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\bin\Debug\Arbol.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\bin\Debug\Arbol.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Arbol\obj\Debug\Arbol.pdb

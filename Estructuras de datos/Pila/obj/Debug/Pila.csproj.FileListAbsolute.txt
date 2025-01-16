@@ -1,0 +1,11 @@
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\bin\Debug\Pila.exe.config
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\bin\Debug\Pila.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\bin\Debug\Pila.pdb
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.csproj.AssemblyReference.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.csproj.SuggestedBindingRedirects.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.Form1.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.Properties.Resources.resources
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.csproj.GenerateResource.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.csproj.CoreCompileInputs.cache
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.exe
+C:\Users\MidasM2020\source\repos\Estructuras de datos\Pila\obj\Debug\Pila.pdb
